@@ -31,34 +31,34 @@ Add the bill of the materials you need for this project.
 |===
 
 == Step 1: Installation
-Please describe the steps to install this project.
+To install the project, first you must do these things:
 
-For example:
-
-1. Open this file
-2. Edit as you like
-3. Release to the World!
+1. Clone or download this project to your computer.
+2. Extract and put the whole thing into a folder.
+3. Open the soil_moisture_sensor.ino in Arduino IDE.
 
 == Step 2: Assemble the circuit
 
-Assemble the circuit following the diagram layout.png attached to the sketch
+Assemble the circuit following the diagram layout.png attached to the sketch.
 
 == Step 3: Load the code
 
-Upload the code contained in this sketch on to your board
+1. In Arduino IDE, install ESP32 boards from the Boards Manager.
+2. Connect your board into the computer.
+3. Upload the code contained in this sketch on to your board.
 
 === Folder structure
 
 ....
- sketch123                => Arduino sketch folder
-  ├── sketch123.ino       => main Arduino file
-  ├── schematics.png      => (optional) an image of the required schematics
-  ├── layout.png          => (optional) an image of the layout
-  └── ReadMe.adoc         => this file
+ (create folder)              => Arduino sketch folder
+  ├── soil_moisture_sensor.ino       => main Arduino file
+  ├── schematics.png          => (optional) an image of the required schematics
+  ├── layout.png              => (optional) an image of the layout
+  └── ReadMe.adoc             => this file
 ....
 
 === License
-This project is released under a {License} License.
+This project is released under a Public Domain License.
 
 === Contributing
 To contribute to this project please contact dutchieslierk https://id.arduino.cc/dutchieslierk
