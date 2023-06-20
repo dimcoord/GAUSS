@@ -1,12 +1,34 @@
-:Author: dutchieslierk
-:Email: {AuthorEmail}
+:Author: dimcoord
+:Email: dimastio20062@gmail.com
 :Date: 24/12/2022
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Geodata Acquisition and Utilization Semi-system
 
-Describe your project
+GAUSS (Geodata Acquisition and Utilization Semi-system) is yet another soil moisture monitoring tool. It's fully-strapped tool with some thingamajig to improve the usability of this kind of tool. We're trying to solve the problem of sudden dryness in certain areas such as Indonesia. To monitor and pinpoint which areas have the least moisture, and locate those with the most accesible way possible.
+
+We added spatial pinpointing by using a GPS module, deployed a web application, and integrated the whole system into the webapp as well as adding an interactive map.
+
+Devpost: https://devpost.com/software/gauss-for-the-environment
+
+=== Preparations
+Add the bill of the materials you need for this project.
+
+|===
+| ID | Part name      | Quantity
+| 01 | WeMos D1 R32   | 1
+| 02 | HW-103         | 1
+| 03 | HW-080         | 1
+| 04 | UBLOX NEO-6M   | 1
+| 05 | AA Batteries   | 6
+| 06 | 6S AA Holder w/ 3.5mm Jack  | 1
+| 07 | Breadboard     | 1
+| 08 | Mini Breadboard | 1
+| 09 | Jumper cables  | 25
+| 10 | Push button    | 1
+| 11 | 1k Resistor    | 1
+|===
 
 == Step 1: Installation
 Please describe the steps to install this project.
@@ -40,17 +62,6 @@ This project is released under a {License} License.
 
 === Contributing
 To contribute to this project please contact dutchieslierk https://id.arduino.cc/dutchieslierk
-
-=== BOM
-Add the bill of the materials you need for this project.
-
-|===
-| ID | Part name      | Part number | Quantity
-| R1 | 10k Resistor   | 1234-abcd   | 10
-| L1 | Red LED        | 2345-asdf   | 5
-| A1 | Arduino Zero   | ABX00066    | 1
-|===
-
 
 === Help
 This document is written in the _AsciiDoc_ format, a markup language to describe documents.
