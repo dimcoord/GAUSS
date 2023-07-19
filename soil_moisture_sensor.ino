@@ -14,10 +14,10 @@ WiFiClient client;
 #define sensorPin 34
 #define buttonPin 12
 #define sensorPower 14
-const char* ssid = "dimcord";
-const char* password = "Linguini";
-const char* serverUrl = "https://wild-rose-cod-hem.cyclic.app/lokasi";
-const char* token = "onichanbaka";
+const char* ssid = "";
+const char* password = "";
+const char* serverUrl = "";
+const char* token = "";
 float longitude;
 float latitude;
 int satValue;
