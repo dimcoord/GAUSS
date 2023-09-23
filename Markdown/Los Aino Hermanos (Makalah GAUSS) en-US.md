@@ -1,17 +1,3 @@
-﻿
-Subscribe to DeepL Pro to edit this document.
-Visit [www.DeepL.com/pro](https://www.deepl.com/pro?cta=edit-document) for more information.
-![](Aspose.Words.491ea836-44d6-4a88-b3e4-dc707370cfa7.001.png)![](Aspose.Words.491ea836-44d6-4a88-b3e4-dc707370cfa7.002.png)
-
-![](Aspose.Words.491ea836-44d6-4a88-b3e4-dc707370cfa7.003.png)
-
-<a name="_tiiudhb69ja4"></a><a name="_2uho9bq4ahr2"></a><a name="_y5xy5q5jal1b"></a>**IoT-based Drought Geodata Collection**
-
-A paper written by ***Dimastio Setiawan, Fagian Anmila S., M. Andika Rafli, Hanzalah Jibran*** as a submission to the *Science Project* competition at OGG FITB 2023.
-
------
-
-
 ## <a name="_h0q4k3betlkj"></a>**Abstract**
 Drought is a problem that is often found in several regions in Indonesia. Especially in areas with minimal soil absorption. With climate change and global warming being one of the factors of drought, many sectors are adversely affected. Qualitative methods will be used to compare the changes due to drought in each region. This paper will discuss one of the solutions to drought by implementing a device to detect water content in the soil. With this research, it is hoped that public awareness of drought can increase and pay more attention to the condition of the surrounding environment.
 
